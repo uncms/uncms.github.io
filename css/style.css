@@ -136,7 +136,6 @@ header{
     background-size: cover;
     background-repeat: no-repeat;
     overflow: hidden;
-    isolation: isolate;
 }
 
 .home-title{
