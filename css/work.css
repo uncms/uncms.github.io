@@ -156,7 +156,7 @@ header{
 .work > h1{
     font-family: 'Pretendard Variable', sans-serif;
     font-size: var(--font-title);
-    font-weight: 800;
+    font-weight: 700;
     color: var(--color-black);
     line-height: 135%;
     word-break: keep-all;
