@@ -61,7 +61,7 @@ function generateWork(_obj, _num){
 }
 
 AOS.init({
-    offset: 250,
+    offset: 0,
     duration: 1500,
     once: true,
     anchorPlacement: "top-bottom",
